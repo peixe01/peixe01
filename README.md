@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @peixe01
+- 👀 I’m interested in ... learn programming
+- 🌱 I’m currently learning ... python
+- 📫 How to reach me ... send an email to: p3ixe001@gamail.com
